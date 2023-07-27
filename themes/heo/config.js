@@ -6,14 +6,14 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
     { title: '欢迎来到我的csdn', url: 'https://blog.csdn.net/m0_69379600?spm=1000.2115.3001.5343' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '访问doupoの中心', url: 'https://handoupo.yuque.com' }
   ],
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '憨豆婆啊',
   HERO_TITLE_2: '与思维认知',
   HERO_TITLE_3: 'hdp520.top',
-  HERO_TITLE_4: '新版上线',
+  HERO_TITLE_4: '新版哈都婆上线',
   HERO_TITLE_5: 'handoupoのblog',
   HERO_TITLE_LINK: 'https://blog.csdn.net/m0_69379600?spm=1000.2115.3001.5343',
 
