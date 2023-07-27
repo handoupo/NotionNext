@@ -10,12 +10,12 @@ const CONFIG = {
   ],
 
   // 英雄区(首页顶部大卡)
-  HERO_TITLE_1: '分享编程',
+  HERO_TITLE_1: '憨豆婆啊',
   HERO_TITLE_2: '与思维认知',
   HERO_TITLE_3: 'hdp520.top',
   HERO_TITLE_4: '新版上线',
-  HERO_TITLE_5: '定制教程感谢tangly',
-  HERO_TITLE_LINK: 'https://hdp520.top',
+  HERO_TITLE_5: 'handoupoのblog',
+  HERO_TITLE_LINK: 'https://blog.csdn.net/m0_69379600?spm=1000.2115.3001.5343',
 
   // 英雄区显示三个置顶分类
   HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -98,7 +98,7 @@ const CONFIG = {
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
-  SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  SOCIAL_CARD_URL: 'https://blog.csdn.net/m0_69379600?spm=1000.2115.3001.5343',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
@@ -113,7 +113,7 @@ const CONFIG = {
 
   POST_LIST_COVER_DEFAULT: true, // 封面为空时用站点背景做默认封面
   POST_LIST_SUMMARY: true, // 文章摘要
-  POST_LIST_PREVIEW: false, // 读取文章预览
+  POST_LIST_PREVIEW: true, // 读取文章预览
   POST_LIST_IMG_CROSSOVER: true, // 博客列表图片左右交错
 
   ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
